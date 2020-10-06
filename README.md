@@ -10,5 +10,5 @@ These insights, could allow law enforcement bodies to allocate their resources m
 Governments should be highly interested in accurate predictions of the severity of an accident, in order to reduce the time of arrival and thus save a significant amount of people each year. Others interested could be private companies investing in technologies aiming to improve road safeness.
 
 This project consist of several parts divided in two different notebooks.
-#Feauter Selection
+# Feauter Selection
 This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following kaggle page. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
